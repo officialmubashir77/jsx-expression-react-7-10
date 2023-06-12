@@ -1,0 +1,11 @@
+	//JSX in React Or Next Js   7th Video -
+
+//	> Javascript in Hrml is called JSX
+//	> ReactDom.render(kia dikhana hy , kahan dikhana hy , anonymous Function) 
+//	> <React.Fragment></React.Fragment> ,,,,,,,,,,, <> </> is called React Fragment 
+//	> Next JS Series First Challange OR Rect JS First Challange 
+	  make new component and create h1 h3 and list and syle this structure in global.css 
+
+ 
+//>>	package.json > dependencies File is most important file in our Project is depend on package.json file.
+ 
